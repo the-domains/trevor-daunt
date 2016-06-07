@@ -1,7 +1,7 @@
 name: Trevor Daunt
 favicon: null
 layout_spectrum: 0.7301778248511255
-typography_spectrum: 0.9248919999226928
+typography_spectrum: 0.41604
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.8049636543728411
+  brandStrength: 0.75
   lightness: 0.7221577134914696
   saturation: 0.6348207246046513
   rhythmicContrast: 0.8482441448140889
